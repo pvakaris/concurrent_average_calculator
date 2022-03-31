@@ -1,6 +1,8 @@
 # Average calculator
 
-* It was developed to learn more about Java concurrency.
+It was developed to learn more about Java concurrency.
+
+
 
 This is an implementation of an algorithm that calculates the average of a given array.
 
